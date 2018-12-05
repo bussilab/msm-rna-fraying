@@ -4,3 +4,6 @@
 [submodule "desres-ugcg"]
 	path = desres-ugcg
 	url = https://github.com/bussilab/msm-rna-fraying-desres-ugcg.git
+[submodule "desres-acgc"]
+	path = desres-acgc
+	url = https://github.com/bussilab/msm-rna-fraying-desres-acgc.git
