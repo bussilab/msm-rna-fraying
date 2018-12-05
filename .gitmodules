@@ -16,3 +16,6 @@
 [submodule "amber-ucgc"]
 	path = amber-ucgc
 	url = https://github.com/bussilab/msm-rna-fraying-amber-ucgc.git
+[submodule "amber-agcg"]
+	path = amber-agcg
+	url = https://github.com/bussilab/msm-rna-fraying-amber-agcg.git
