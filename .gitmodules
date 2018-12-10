@@ -10,12 +10,3 @@
 [submodule "desres-ucgc"]
 	path = desres-ucgc
 	url = https://github.com/bussilab/msm-rna-fraying-desres-ucgc.git
-[submodule "amber-ugcg"]
-	path = amber-ugcg
-	url = https://github.com/bussilab/msm-rna-fraying-amber-ugcg.git
-[submodule "amber-ucgc"]
-	path = amber-ucgc
-	url = https://github.com/bussilab/msm-rna-fraying-amber-ucgc.git
-[submodule "amber-agcg"]
-	path = amber-agcg
-	url = https://github.com/bussilab/msm-rna-fraying-amber-agcg.git
