@@ -19,6 +19,6 @@ Clone only this repository and then download files for specific systems
 ````
 git clone https://github.com/bussilab/msm-rna-fraying.git
 cd msm-rna-fraying
-git submodule update desres-ucgc
-git submodule update amber-ucgc
+git submodule update --init desres-ucgc
+git submodule update --init amber-ucgc
 ````
