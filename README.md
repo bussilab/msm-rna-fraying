@@ -4,9 +4,7 @@ This repository contains tools and trajectories described in the following paper
 
 Pinamonti, Paul, Noè, Rodriguez, and Bussi,
 *The mechanism of RNA base fraying: molecular dynamics simulations analyzed with core-set Markov state models*,
-submitted (2018)
-
-Preprint available at [arXiv:1811.12144](https://arxiv.org/abs/1811.12144).
+[J. Chem. Phys. 150, 154123 (2019)](https://doi.org/10.1063/1.5083227) ([arXiv:1811.12144](https://arxiv.org/abs/1811.12144)).
 
 ## Trajectories
 
